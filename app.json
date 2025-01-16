@@ -32,6 +32,12 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
+      ],
+      [
+        "expo-font",
+        {
+          "fonts": ["assets/fonts/Raleway-Regular.ttf", "assets/fonts/SpaceMono-Regular.ttf"]
+        }
       ]
     ],
     "experiments": {
